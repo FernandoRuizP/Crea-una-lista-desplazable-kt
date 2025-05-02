@@ -69,7 +69,7 @@ class MainActivity : ComponentActivity() {
 }
 
 
-
+// Probando el commit
 @Composable
 fun AffirmationsApp() {
     val layoutDirection = LocalLayoutDirection.current
