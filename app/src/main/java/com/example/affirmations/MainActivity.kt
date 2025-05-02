@@ -48,7 +48,7 @@ import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.ui.platform.LocalLayoutDirection
 import com.example.affirmations.data.Datasource
 import androidx.compose.foundation.lazy.items
-import androidx.compose.foundation.lazy.LazyColumn
+
 
 class MainActivity : ComponentActivity() {
 
